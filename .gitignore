@@ -143,5 +143,5 @@ dmypy.json
 cython_debug/
 
 .DS_Store
-
+bin
 # End of https://www.toptal.com/developers/gitignore/api/python
